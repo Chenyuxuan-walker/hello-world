@@ -1,4 +1,4 @@
-#Hello World!
+# Hello World!
 Hello everyone! I am a freshman in the Shanghai University of Finance and Economics majoring Statistics.
 This is first program on Github.
 I wanna be a quant researcher in my future.
